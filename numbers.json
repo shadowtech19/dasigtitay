@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "hotlines": [
     {
       "Hotline": "BFP",
@@ -33,12 +33,19 @@
     }
   ],
   "advertisements": [
-     {
+    {
       "id": "ad1",
       "title": "In the name of true service and love for Titay",
       "description": "In the name of true service and love for Titay. \\r\\nToday, we had the opportunity to meet and have a talk with Senator Bong Go. \\r\\nTitay, para sa inyoa kini.❤️\\r\\n#DasigTitay",
       "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/546622115_783921417599961_313891621462590985_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQlqg7Wx9V4FMIaIsDFtl2-YYrLkmT4wH5hisuSZPjAYJnuocl787fPcKZIkAfM3RDpDQdI2N3G6wSERXZ9RSJ&_nc_ohc=xdAR6EUtVDwQ7kNvwEcOeXJ&_nc_oc=AdlC4FVgCTr5mG0PKbQUWWia3v9Ghr4jTt9KogVsj_pYYiicpewR7VMbBnUrLJSHRLM&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=DChRmuhDpdxr_x-9SlufZA&oh=00_AfbD1_35qi7RgSUwAoayHsTbZoLLbkaDWFnW_AlBI1GBaQ&oe=68C6427F",
       "targetUrl": "https://www.facebook.com/share/p/161y4agRai/\""
+    },
+    {
+      "id": "ad10",
+      "title": "OATH OF DUTY | Barangay Malagandis",
+      "description": "OATH OF DUTY | Barangay Malagandis, Titay, Zamboanga Sibugay\nWe congratulate Hon. Edgardo T. Enong for officially taking his Oath of Office as Barangay Kagawad. With his pledge of commitment to serve with integrity, dedication, and loyalty to the Constitution of the Republic of the Philippines, we look forward to his meaningful service to the community. 🙏✨",
+      "imageUrl": "https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/536189822_122123080706935139_4521201767424294872_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH21dKVwIGT7mH-dJQBANELai0xOcqVGPdqLTE5ypUY99MZnMrru6xX1HBvdOtNlHhe0Oz1jIz8TTsJyRdIAyUV&_nc_ohc=nv0Amu36p4wQ7kNvwE1DEXU&_nc_oc=Adm3LKpxIL9bu8P464maakYnVrygXFoi3rrUWpjUYusKWw_oQZr0PdnbqnQoRkwbSWk&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=JeMeTUgoNAJIeptSrGTnvQ&oh=00_AfZoBCTRuwfGG7rR6GRPV4vNrrkhU_z3NMTHl2UQiUk4fw&oe=68C0CB69",
+      "targetUrl": "https://www.facebook.com/share/p/1BBu7j3AV3/"
     },
     {
       "id": "ad2",
@@ -69,7 +76,7 @@
       "targetUrl": "https://www.facebook.com/share/p/1TvsFA5mbD/"
     },
     {
-      "id": "ad5",
+      "id": "ad6",
       "title": "FLAG CEREMONY | First Monday of September",
       "description": "Today, we gathered once again for our traditional first Monday flag ceremony, honoring our nation and renewing our commitment to public service. 🙌\nThe ceremony was graced by Municipal Mayor, Hon. Riorita Martinez Castillo, whose leadership and presence continue to uplift and guide our community. \nWe are also honored by the presence of Former Mayor of Titay and Board Member, Hon. Maria Ezperanza Corazon Rillera Hadjula, whose continued support and dedication to our community inspire us all. 💚",
       "imageUrl": "https://scontent.fdvo2-2.fna.fbcdn.net/v/t39.30808-6/541218055_122126446364935139_4882905996144252622_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjh4NLbQE2jCTdL1xqWnAfw7BW9ePqZ0HDsFb14-pnQZ_8l9KNcffNrGwCt4ZxkgU6L4X2AfmmTAXMH4NzUAsz&_nc_ohc=R5yy5X9knYsQ7kNvwF0DKWX&_nc_oc=AdnihT7KlHlNAuPswVVJjAyE4cV8PZZPUNyBIiCnn-hj8zIsuSKQvBejaI1LJwRV-v0&_nc_zt=23&_nc_ht=scontent.fdvo2-2.fna&_nc_gid=vWUzmNIBMpFjXp8jBmRS5g&oh=00_AfbijIVoZiOiOHSv4F35vg5rWSeSaIwqeanU9hH3g6yMMw&oe=68C0D786",
@@ -95,13 +102,6 @@
       "description": "Congratulations to the Local Disaster Risk Reduction and Management Council of the Municipality of Titay for their outstanding achievement in the 25th Gawad KALASAG Seal and Special Awards! Your invaluable contribution to Disaster Risk Reduction and Management and Humanitarian Assistance truly makes a difference. ​This recognition highlights your dedication to community safety and resilience.​\nA special commendation goes to Sir George D. Carabaña Jr. and Jose Mario Angelo A. Villarosa for proudly representing the Municipality of Titay and accepting this prestigious award.",
       "imageUrl": "https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/539845831_122125269608935139_6481774876996315113_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEHlpgHubqKbAaRREaPwHA7L_U-pPpc55cv9T6k-lznl8RcNu0sKLfY8_6SFoBN_Bcsxqp35gMDWkg65bGy2CsZ&_nc_ohc=xsgvm0lrFLAQ7kNvwFT3mtb&_nc_oc=Adl6DfFl9lxeMlHOPpO_Q4EjPuZesmdTfHVY1MVr-hWiHjsMNFeiCyEOsoUgn6mM4Hk&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=Abr_yV8zsvPWurabTi3WSg&oh=00_AfbzIhSYSxLzLKifAd3SXbbpbdjK5EGzBkA7wNSjyyZ4ew&oe=68C0BC00",
       "targetUrl": "https://www.facebook.com/share/p/1CG9b7Tcgx/"
-    },
-    {
-      "id": "ad10",
-      "title": "OATH OF DUTY | Barangay Malagandis",
-      "description": "OATH OF DUTY | Barangay Malagandis, Titay, Zamboanga Sibugay\nWe congratulate Hon. Edgardo T. Enong for officially taking his Oath of Office as Barangay Kagawad. With his pledge of commitment to serve with integrity, dedication, and loyalty to the Constitution of the Republic of the Philippines, we look forward to his meaningful service to the community. 🙏✨",
-      "imageUrl": "https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/536189822_122123080706935139_4521201767424294872_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH21dKVwIGT7mH-dJQBANELai0xOcqVGPdqLTE5ypUY99MZnMrru6xX1HBvdOtNlHhe0Oz1jIz8TTsJyRdIAyUV&_nc_ohc=nv0Amu36p4wQ7kNvwE1DEXU&_nc_oc=Adm3LKpxIL9bu8P464maakYnVrygXFoi3rrUWpjUYusKWw_oQZr0PdnbqnQoRkwbSWk&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=JeMeTUgoNAJIeptSrGTnvQ&oh=00_AfZoBCTRuwfGG7rR6GRPV4vNrrkhU_z3NMTHl2UQiUk4fw&oe=68C0CB69",
-      "targetUrl": "https://www.facebook.com/share/p/1BBu7j3AV3/"
     }
   ],
   "newsArticles": [
@@ -160,7 +160,14 @@
       "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/544905013_3656673627962013_3672942838787841693_n.jpg?stp=dst-jpg_p552x414_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFW6VN81LVQU3NNkAGHkOmJKOOzepFuHb8o47N6kW4dv85v6eFX8T9Rvbeen-XbSSmf7RltsMhhj2R4CQAZd9eH&_nc_ohc=XimQZSNyDkcQ7kNvwGyMp5F&_nc_oc=AdmAMrEhH7KNnlFZ5oW-FhndIrqoZk6rjL5nrMQFDaMEGkBDY6X9fixyiWXqCmaqbtU&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=OsoWwak7faRXxs-1VSoMXw&oh=00_AfZHO6wlz9qXCnNc_vfpWfczlaf5WZqKw_HEONWL4kh2_g&oe=68C62743",
       "publishedDate": "09 September 2025",
       "fullContentUrl": "https://www.facebook.com/share/p/1BAQYdoYyX/"
+    },
+    {
+      "id": "news8",
+      "title": "BFP | 𝐈𝐍𝐕𝐄𝐍𝐓𝐎𝐑𝐘 𝐎𝐅 𝐏𝐄𝐑𝐒𝐎𝐍𝐍𝐄𝐋, 𝐏𝐑𝐎𝐏𝐄𝐑𝐓𝐘 𝐀𝐍𝐃 𝐄𝐐𝐔𝐈𝐏𝐌𝐄𝐍𝐓 𝟐𝟎𝟐𝟓",
+      "summary": "The Bureau of Fire Protection (BFP)  Annual Inventory Team 2025, composed of Commissioned and Non-Commissioned Officers from the BFP Regional Office IX in coordination with Representatives from the Commission on Audit, conducted a comprehensive inventory of personnel, property, and equipment at Titay Municipal Fire Station, Poblacion Titay, Zamboanga Sibugay.\r\nThe annual inventory of personnel, property, and equipment in the Bureau of Fire Protection (BFP) Region IX ensures accountability and compliance with Commission on Audit (COA) guidelines. It verifies the proper recording, condition, and completeness of government-issued assets, including uniforms and equipment, while identifying shortages or damages for timely action. This process promotes transparency, efficiency, and operational readiness across the organization",
+      "imageUrl": "https://scontent-mnl3-1.xx.fbcdn.net/v/t39.30808-6/545912317_794065023136828_7139396557416060266_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGdiII3GdHJmmcpQQ7X87qzZAUXYZH6uXVkBRdhkfq5dXAXFJw4cSQyKQ4u3FRzagMTt_GT_eEeNpGk0N59Q6x9&_nc_ohc=0ZFxFToywUIQ7kNvwHo59U2&_nc_oc=Adkx3jt7j0xeLZEA5j-7LC2siRZnCVXdjYEbIzuqFJo85Z4ytEtazqz9Mqdsp8Q9sYM&_nc_zt=23&_nc_ht=scontent-mnl3-1.xx&_nc_gid=T0wb9hDxE2-ljXDc5Yz82w&oh=00_AfZQ5XiEYJ3zLWObSplz-OnEbISxHJfAigC4HW_1nWXB_Q&oe=68C6D207",
+      "publishedDate": "𝟏𝟎 𝐒𝐄𝐏𝐓𝐄𝐌𝐁𝐄𝐑 𝟐𝟎𝟐𝟓",
+      "fullContentUrl": "https://www.facebook.com/share/p/14JjqchB6q8/"
     }
   ]
 }
-
