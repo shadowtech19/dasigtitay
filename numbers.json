@@ -1,6 +1,11 @@
 {
   "version": "1.0.8",
   "hotlines": [
+     {
+      "Hotline": "PNP",
+      "Globe": "09535027422",
+      "Smart": "911"
+    },
     {
       "Hotline": "BFP",
       "Globe": "09655090944",
@@ -22,11 +27,6 @@
       "Smart": "09128819561"
     },
     {
-      "Hotline": "PNP",
-      "Globe": "09535027422",
-      "Smart": "911"
-    },
-    {
       "Hotline": "RHU",
       "Globe": "09350466299",
       "Smart": "09623656375"
@@ -44,15 +44,15 @@
       "id": "ad10",
       "title": "The Dasig Titay Scholarship Program",
       "description": "\nAng edukasyon kay usa ka adbokasiya duol sa akong kasing-kasing\n These are the words heartily expressed by the Municipal Mayor of Titay, Hon. Riorita Martinez Castillo, as they officially launched the Dasig Titay Scholarship Program, an initiative that highlights the unwavering commitment of our Honorable Mayor and the Local Government Unit of Titay, to promote education and empower the future of our community.\nThe Dasig Titay Scholarship is designed to offer meaningful opportunities to deserving students, supporting them in reaching their academic goals. \nIt stands as a symbol of our local leaders’ dedication to nurturing progress and development in Titay.",
-      "imageUrl": "https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/541513616_122126770316935139_8456179667662114304_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE7FtzLNUjO2ZXGXSJQvd9eRerIrbR79IpF6sittHv0iogz18hhX3jEnCqwlkojtc2tOax_WEviprylGH7SZrkU&_nc_ohc=VdMasMnYbtAQ7kNvwGpTItS&_nc_oc=Adm9sW9loK8D7-oJAtpHEYOq1BGmvgEuB8bNY4ndxIFItlUeE_ZNPEyN8-z3cGAoQKw&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=40AwCrkkM5XvyaZnneWzgg&oh=00_AfYCcNcinAEpdLCs7tHv9bMYERs3kM9NJ17zfrhLc5io0A&oe=68C0C558",
-      "targetUrl": "https://www.facebook.com/share/p/1TvsFA5mbD/"
+      "imageUrl": "https://scontent-mnl3-3.xx.fbcdn.net/v/t39.30808-6/541513616_122126770316935139_8456179667662114304_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE7FtzLNUjO2ZXGXSJQvd9eRerIrbR79IpF6sittHv0iogz18hhX3jEnCqwlkojtc2tOax_WEviprylGH7SZrkU&_nc_ohc=V9QYbgdtGDsQ7kNvwEoBHFH&_nc_oc=AdmXg3AtJ1yksytsd0N32uhXjgHSYfI10-nEsi6cSC6qm6xz5ZSrJkHfeVIu-pIk7u8&_nc_zt=23&_nc_ht=scontent-mnl3-3.xx&_nc_gid=BBNCDUPVWhs_oAqW4KpyRw&oh=00_AfbAN8hQSvPbi1HZdaQv3txcVhmxWl_d38TCou5EQoha_Q&oe=68C83DD8",
+      "targetUrl": "https://www.facebook.com/share/p/1AuzBrBa2Q/"
     },
     {
       "id": "ad2",
       "title": "FLAG CEREMONY | First Monday of September",
       "description": "Today, we gathered once again for our traditional first Monday flag ceremony, honoring our nation and renewing our commitment to public service. 🙌\nThe ceremony was graced by Municipal Mayor, Hon. Riorita Martinez Castillo, whose leadership and presence continue to uplift and guide our community. \nWe are also honored by the presence of Former Mayor of Titay and Board Member, Hon. Maria Ezperanza Corazon Rillera Hadjula, whose continued support and dedication to our community inspire us all. 💚",
-      "imageUrl": "https://scontent.fdvo2-2.fna.fbcdn.net/v/t39.30808-6/541218055_122126446364935139_4882905996144252622_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjh4NLbQE2jCTdL1xqWnAfw7BW9ePqZ0HDsFb14-pnQZ_8l9KNcffNrGwCt4ZxkgU6L4X2AfmmTAXMH4NzUAsz&_nc_ohc=R5yy5X9knYsQ7kNvwF0DKWX&_nc_oc=AdnihT7KlHlNAuPswVVJjAyE4cV8PZZPUNyBIiCnn-hj8zIsuSKQvBejaI1LJwRV-v0&_nc_zt=23&_nc_ht=scontent.fdvo2-2.fna&_nc_gid=vWUzmNIBMpFjXp8jBmRS5g&oh=00_AfbijIVoZiOiOHSv4F35vg5rWSeSaIwqeanU9hH3g6yMMw&oe=68C0D786",
-      "targetUrl": "https://www.facebook.com/share/p/1E7dWkRjp9/"
+      "imageUrl": "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/541218055_122126446364935139_4882905996144252622_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjh4NLbQE2jCTdL1xqWnAfw7BW9ePqZ0HDsFb14-pnQZ_8l9KNcffNrGwCt4ZxkgU6L4X2AfmmTAXMH4NzUAsz&_nc_ohc=9GcotpYZ5WYQ7kNvwHj9UPB&_nc_oc=AdkeVUinw3OfIAaFdJCQoJVbZN1-0oTDWkDiEl8d_5Al7WwgBW5JdNx9BCUkhL3hQwQ&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=RUk7NnSmYg85GGLm7oxr4w&oh=00_AfYUbmClHWKoDJWvXuvyfYDK38h-1jnlb7FnU9yPVwbO9A&oe=68C85006",
+      "targetUrl": "https://www.facebook.com/share/p/15y3sq4ATu/"
     },
     {
       "id": "ad3",
@@ -86,8 +86,8 @@
       "id": "ad7",
       "title": "Dasig Titay Distribution of Water Dispensers!",
       "description": "Distribution of Water Dispensers, check! \nThe distribution of water dispensers was finally ticked off the Mayor’s checklist yesterday, at Titay Central Elementary School grounds. This initiative was a promise made by Hon. Mayor Riorita Martinez-Castillo on her special day, and it serves as a manifestation of her respect, admiration, and support to our educators. \nThis marks the start of greater things ahead. Under her administration, Mayor Rio remains committed in ensuring that everyone is included and supported in every way possible and feasible. \nTogether, we will achieve more for Titay!",
-      "imageUrl": "https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/543216395_122127033236935139_5820307641652258715_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE0dmhfIrKnsouD2jTyUIkriGTyfdAwktiIZPJ90DCS2BZWXtlraF1_5yHLHszetfvxAAvcSc_SXm8LzS3BCZ8J&_nc_ohc=0cWTU614cUUQ7kNvwEzOtMP&_nc_oc=Adn0JkG7KvbhrsjBIeo3CQc9UzD3dmvbPjq4qEg3t42P3Dyly-rljmx10diEHQwUj7w&_nc_zt=23&_nc_ht=scontent.fdvo2-1.fna&_nc_gid=mqZbGJR6NCSe1qg_sCsYAw&oh=00_AfbEkdFkJ-HvKxnkR2XlgbvKevoHQ6tX7MxLmxQ0CIlEKA&oe=68C0D9B0",
-      "targetUrl": "https://www.facebook.com/share/p/14H8Z22J3YD/"
+      "imageUrl": "https://scontent-mnl3-1.xx.fbcdn.net/v/t39.30808-6/543216395_122127033236935139_5820307641652258715_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeE0dmhfIrKnsouD2jTyUIkriGTyfdAwktiIZPJ90DCS2BZWXtlraF1_5yHLHszetfvxAAvcSc_SXm8LzS3BCZ8J&_nc_ohc=tbnjmQvXIfoQ7kNvwFOcHKH&_nc_oc=AdmMBs79SWlIe9xxg2wKPmKc5m1wSFZq33Q-Wm8n4sThIQigt797HjEEwXw-kkK6OhM&_nc_zt=23&_nc_ht=scontent-mnl3-1.xx&_nc_gid=MMYGDvW43cty6UDx5HSchA&oh=00_AfY-Ea-gBItCa0R3jbhXTuljP1RxlIN7Sgx4sQWhyJOL2Q&oe=68C85230",
+      "targetUrl": "https://www.facebook.com/share/p/172xaZffwb/"
     },
     {
       "id": "ad8",
@@ -100,8 +100,8 @@
       "id": "ad9",
       "title": "Dasig Titay Blood Donation",
       "description": "In celebration of the of the 125th Anniversary of the Philippine Service, a mass donation was conducted at the Municipality of Titay. The activity was held at Titay Municipal Hall last September 2, 2025.\nThe event was graced by Municipal Mayor, Hon. Riorita Martinez-Castillo. She extends her gratitude to all our dedicated volunteers, health workers, LGU staff, and brave donors for making this life-saving mission possible. \nTruly, heroes are not only found in capes, but also in those who give life through blood. ",
-      "imageUrl": "https://scontent.fdvo2-2.fna.fbcdn.net/v/t39.30808-6/543138149_122127004124935139_8379715669578596206_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHVFAW2HUhstG38Te_wyQWeaK58NhRzGqBornw2FHMaoOjLQiqem23-kykxWD9uyiQWWQAPFCLfzp6sQZl1GCNZ&_nc_ohc=kr40zZBjiJsQ7kNvwFLu982&_nc_oc=AdkGKZuAJveHyrk89EhbNNjacxqJj9JfRku0YlugUPRZcrdpX7JLvbjCGjVMVNgAiGg&_nc_zt=23&_nc_ht=scontent.fdvo2-2.fna&_nc_gid=26sWI0SHkSe48TatM8j2pA&oh=00_AfZ-nGDjB_WKkDyfSRTetgPRrn2ceiSCyFMnrSAs4Yu9oQ&oe=68C0B26A",
-      "targetUrl": "https://www.facebook.com/share/p/19NmkYtoQi/"
+      "imageUrl": "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/543138149_122127004124935139_8379715669578596206_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHVFAW2HUhstG38Te_wyQWeaK58NhRzGqBornw2FHMaoOjLQiqem23-kykxWD9uyiQWWQAPFCLfzp6sQZl1GCNZ&_nc_ohc=feBze1hS9rUQ7kNvwG6mD1f&_nc_oc=AdluTuF-SW7gNf3sJfyNBbxijXdTPwvDozF-5Lbv-QdaDIlT4gGRUEHKOMYcPadP-Yk&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=AeGYbiD6oj0BUPt2NEE5kw&oh=00_AfYE8sqJCyYdg-WxsRzoNDvF1PH8BnDD5nVIMJm96ZRwVw&oe=68C8632A",
+      "targetUrl": "https://www.facebook.com/share/p/1GjmrRYiuc/"
     }
   ],
   "newsArticles": [
