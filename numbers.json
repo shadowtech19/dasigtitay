@@ -41,13 +41,6 @@
       "targetUrl": "https://www.facebook.com/share/1FnWdZ2R9n/"
     },
     {
-      "id": "ad10",
-      "title": "In the name of true service and love for Titay",
-      "description": "In the name of true service and love for Titay. \\r\\nToday, we had the opportunity to meet and have a talk with Senator Bong Go. \\r\\nTitay, para sa inyoa kini.❤️\\r\\n#DasigTitay",
-      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/546622115_783921417599961_313891621462590985_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQlqg7Wx9V4FMIaIsDFtl2-YYrLkmT4wH5hisuSZPjAYJnuocl787fPcKZIkAfM3RDpDQdI2N3G6wSERXZ9RSJ&_nc_ohc=xdAR6EUtVDwQ7kNvwEcOeXJ&_nc_oc=AdlC4FVgCTr5mG0PKbQUWWia3v9Ghr4jTt9KogVsj_pYYiicpewR7VMbBnUrLJSHRLM&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=DChRmuhDpdxr_x-9SlufZA&oh=00_AfbD1_35qi7RgSUwAoayHsTbZoLLbkaDWFnW_AlBI1GBaQ&oe=68C6427F",
-      "targetUrl": "https://www.facebook.com/share/p/161y4agRai/\""
-    },
-    {
       "id": "ad2",
       "title": "𝗣𝗨𝗕𝗟𝗜𝗖 𝗔𝗗𝗩𝗜𝗦𝗢𝗥𝗬 | 𝗖𝗟𝗔𝗦𝗦 𝗦𝗨𝗦𝗣𝗘𝗡𝗦𝗜𝗢𝗡",
       "description": "Let us support contingent No. 8, the official entry of the Municipality of Titay for this year’s Perangat Festival!",
@@ -102,6 +95,13 @@
       "description": "Today, we gathered once again for our traditional first Monday flag ceremony, honoring our nation and renewing our commitment to public service. 🙌\nThe ceremony was graced by Municipal Mayor, Hon. Riorita Martinez Castillo, whose leadership and presence continue to uplift and guide our community. \nWe are also honored by the presence of Former Mayor of Titay and Board Member, Hon. Maria Ezperanza Corazon Rillera Hadjula, whose continued support and dedication to our community inspire us all. 💚",
       "imageUrl": "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/541218055_122126446364935139_4882905996144252622_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHjh4NLbQE2jCTdL1xqWnAfw7BW9ePqZ0HDsFb14-pnQZ_8l9KNcffNrGwCt4ZxkgU6L4X2AfmmTAXMH4NzUAsz&_nc_ohc=9GcotpYZ5WYQ7kNvwHj9UPB&_nc_oc=AdkeVUinw3OfIAaFdJCQoJVbZN1-0oTDWkDiEl8d_5Al7WwgBW5JdNx9BCUkhL3hQwQ&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=RUk7NnSmYg85GGLm7oxr4w&oh=00_AfYUbmClHWKoDJWvXuvyfYDK38h-1jnlb7FnU9yPVwbO9A&oe=68C85006",
       "targetUrl": "https://www.facebook.com/share/p/15y3sq4ATu/"
+    },
+      {
+      "id": "ad10",
+      "title": "In the name of true service and love for Titay",
+      "description": "In the name of true service and love for Titay. \\r\\nToday, we had the opportunity to meet and have a talk with Senator Bong Go. \\r\\nTitay, para sa inyoa kini.❤️\\r\\n#DasigTitay",
+      "imageUrl": "https://scontent.fcgy2-1.fna.fbcdn.net/v/t39.30808-6/546622115_783921417599961_313891621462590985_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHQlqg7Wx9V4FMIaIsDFtl2-YYrLkmT4wH5hisuSZPjAYJnuocl787fPcKZIkAfM3RDpDQdI2N3G6wSERXZ9RSJ&_nc_ohc=xdAR6EUtVDwQ7kNvwEcOeXJ&_nc_oc=AdlC4FVgCTr5mG0PKbQUWWia3v9Ghr4jTt9KogVsj_pYYiicpewR7VMbBnUrLJSHRLM&_nc_zt=23&_nc_ht=scontent.fcgy2-1.fna&_nc_gid=DChRmuhDpdxr_x-9SlufZA&oh=00_AfbD1_35qi7RgSUwAoayHsTbZoLLbkaDWFnW_AlBI1GBaQ&oe=68C6427F",
+      "targetUrl": "https://www.facebook.com/share/p/161y4agRai/\""
     }
   ],
   "newsArticles": [
@@ -187,3 +187,4 @@
     }
   ]
 }
+
